@@ -1,5 +1,7 @@
 # Dubai Safe Rent Agent
 
+Project handoff & context: see [HANDOFF.md](HANDOFF.md)
+
 A pilot agent for a safer Dubai rental. Someone types a brief in plain English. The agent reads it, lines up candidate homes, and scores each one for trust: listing permit, broker licence, price against a sample market band, and the fraud patterns Dubai Police warn about. It then walks the deal from viewing to cheques.
 
 This is the working prototype for the Create AI Agents Championship, Best Business AI Agent. The pilot user is Kerem, a developer who starts as a Dubai real estate broker on 6 November 2026. The January 2027 submission needs this prototype, a pitch deck, and a demo video, in English.
